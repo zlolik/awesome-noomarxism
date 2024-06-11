@@ -1,10 +1,16 @@
-# Awesome noomarxism
-List of awesome noomarxism resources.
+# Awesome ноомарксизм
 
-## Marxismo
-1. [marxizmo/noomarxism](https://github.com/marxizmo/noomarxism)
-2. [marxizmo/formation](https://github.com/marxizmo/formation)
-3. [marxizmo/to_communism](https://github.com/marxizmo/to_communism)
-4. [marxizmo/dialectic](https://github.com/marxizmo/dialectic)
-5. [marxizmo/dialectic_book](https://github.com/marxizmo/dialectic_book)
-6. [marxizmo/internet_communistic_history](https://github.com/marxizmo/internet_communistic_history)
+Список ресурсов, имеющих отношение к ноомарксизму.
+
+## Диамат
+* [Материалистическая диалектика на пальцах](https://github.com/marxizmo/dialectic/blob/master/dialectic.md) - Александр Мещеряков, 2020
+
+## Статьи про ноомарксизм
+* [Ноомарксизм](https://github.com/marxizmo/noomarxism/blob/master/noomarxism.md) - Александр Мещеряков
+* [Переход к коммунизму](https://github.com/marxizmo/to_communism/blob/master/to_communism.md) - Александр Мещеряков, 2020
+
+## Видео
+* [Jobless future image ](https://youtu.be/SGrmF89KBMM?feature=shared) - Мультфильм с образами будущего
+
+## Доклады
+* Конференция "Цифровой социализм - 4"
